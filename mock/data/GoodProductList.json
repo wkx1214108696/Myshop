@@ -1,0 +1,114 @@
+{
+  "status": 0,
+  "message": [{
+      "id": 17,
+      "title": "华为荣耀手机64G,大容量",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiPhone.jpg",
+      "sell_price": 2195,
+      "market_price": 2599,
+      "stock_quantity": 50
+    },
+    {
+      "id": 18,
+      "title": "小米手机",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/xiaomiPhone.jpg",
+      "sell_price": 2100,
+      "market_price": 2399,
+      "stock_quantity": 60
+    },
+    {
+      "id": 19,
+      "title": "小米笔记本",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/xiaomiComputer.jpg",
+      "sell_price": 4100,
+      "market_price": 4399,
+      "stock_quantity": 70
+    },
+    {
+      "id": 20,
+      "title": "华为笔记本电脑1",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 21,
+      "title": "华为笔记本电脑2",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 22,
+      "title": "华为笔记本电脑3",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 23,
+      "title": "华为笔记本电脑4",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 24,
+      "title": "华为笔记本电脑5",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 25,
+      "title": "华为笔记本电脑6",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 26,
+      "title": "华为笔记本电脑7",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    },
+    {
+      "id": 27,
+      "title": "华为笔记本电脑866",
+      "add_time": "2019-06-15T06:30:26.000Z",
+      "click": 10,
+      "img_url": "../../static/product/huaweiComputer.jpg",
+      "sell_price": 5100,
+      "market_price": 5399,
+      "stock_quantity": 650
+    }
+  ]
+}

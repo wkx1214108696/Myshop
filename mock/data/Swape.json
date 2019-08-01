@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "message": [{
+      "id": 1,
+      "img": "../../static/Swape/mv1.jpg"
+    },
+    {
+      "id": 2,
+      "img": "../../static/Swape/mv2.jpg"
+    },
+    {
+      "id": 3,
+      "img": "../../static/Swape/mv3.jpg"
+    }
+  ]
+}

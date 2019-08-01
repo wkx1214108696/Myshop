@@ -1,0 +1,23 @@
+{
+    "status": 0,
+    "message": [{
+            "id": 17,
+            "title": "华为荣耀手机64G,大容量",
+            "add_time": "2019-06-15T06:30:26.000Z",
+            "goods_no": "100003774677",
+            "stock_quantity": 20,
+            "market_price": 4000,
+            "sell_price": 3000
+        },
+        {
+            "id": 18,
+            "title": "小米手机",
+            "add_time": "2019-06-15T06:30:26.000Z",
+            "goods_no": "1000037745555",
+            "stock_quantity": 60,
+            "market_price": 3500,
+            "sell_price": 3000
+
+        }
+    ]
+}
